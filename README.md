@@ -1,6 +1,10 @@
-# Google-Code-Jam-Solutions
+## Google Code Jam Year Wise Problems & Solutions
 
-Google Code Jam Year Wise Problems & Solutions
-Year Wise Result
-Year	Score	Rank
-2020	100/100	2025
+
+### Year Wise Result
+
+|  Year   | Score                     | Rank | 
+| --- | ---------------------------- | ------------- |
+| 2020   | 100/100          | 2025         |   
+
+---
